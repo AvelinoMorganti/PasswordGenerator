@@ -1,0 +1,12 @@
+*.properties
+*.netbeans_update_resources
+*.netbeans_automatic_build
+*.class
+*.MF
+*.smap
+private.xml
+build.xml
+index_jsp.java
+build-impl.xml
+ant-deploy.xml
+project.xml
