@@ -10,3 +10,4 @@ index_jsp.java
 build-impl.xml
 ant-deploy.xml
 project.xml
+/dist/
